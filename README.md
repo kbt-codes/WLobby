@@ -1,6 +1,6 @@
 # WLobby
 
-Este projeto é um plugin para Minecraft, localizado em `c:\Users\kaiob\Desktop\Minecraft\Plugins\WLobby`.
+Este projeto é um plugin para Minecraft.
 
 ## Estrutura do Projeto
 - `src/`: Código-fonte principal do plugin.
