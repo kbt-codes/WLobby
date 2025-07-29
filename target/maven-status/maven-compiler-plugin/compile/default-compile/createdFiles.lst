@@ -1,0 +1,8 @@
+me\willowdev\lobby\events\JoinListener.class
+me\willowdev\lobby\commands\SetLobbyCommand.class
+me\willowdev\lobby\commands\ScaleCommand.class
+me\willowdev\lobby\commands\LobbyCommand.class
+me\willowdev\lobby\WLobby.class
+me\willowdev\lobby\events\WaterListener.class
+me\willowdev\lobby\commands\HelpCommand.class
+me\willowdev\lobby\events\DeathListener.class

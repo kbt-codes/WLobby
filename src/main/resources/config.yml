@@ -1,0 +1,8 @@
+messages:
+  join: "&aBem-vindo ao |&fCronicas de um Urso RP!"
+  water: "&cVocê caiu na água!|&efoi levado de volta para o lobby!"
+  death: "&cVocê morreu!|&aTeleportado para o lobby."
+  lobby: "&aVocê foi teleportado para o lobby!|&fBem-vindo de volta."
+scale-blacklist:
+  - world_nether
+  - world_the_end

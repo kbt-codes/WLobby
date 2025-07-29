@@ -1,0 +1,34 @@
+name: WLobby
+main: me.willowdev.lobby.WLobby
+author: willowdev
+version: 3.1.0
+api-version: 1.20
+commands:
+  wsetlobby:
+    description: Define a localização do lobby
+    usage: /wsetlobby
+    permission: wlobby.setlobby
+  wlobby:
+    description: Teleporta o jogador para o lobby
+    usage: /wlobby
+    permission: wlobby.lobby
+  wscale:
+    description: Altere seu tamanho.
+    usage: /wscale <valor|reset>
+    permission: wlobby.scale
+  whelp:
+    description: Mostra a lista de comandos disponíveis
+    usage: /whelp
+permissions:
+  wlobby.setlobby:
+    description: Permite definir o lobby
+    default: op
+  wlobby.lobby:
+    description: Permite usar o comando /lobby
+    default: true
+  wlobby.scale:
+    default: op
+    description: Permite alterar o tamanho do jogador
+  wlobby.help:
+    default: true
+    description: Permite ver a lista de comandos disponíveis
